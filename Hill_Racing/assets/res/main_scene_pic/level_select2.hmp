@@ -1,0 +1,722 @@
+{
+   "map_width": 1920,
+   "map_height": 1440,
+   "map_color": "000000",
+   "grid_color": "FFFFFF",
+   "shape_color": "FA7C07",
+   "selection_color": "3399FF",
+   "grid_size": 32,
+   "snap_grid_size": 16,
+   "snap_grid": true,
+   "show_grid": false,
+   "images": [
+      "sky0.png",
+      "cloud0.png",
+      "cloud1.png",
+      "main.png",
+	  "levelBtn21.png",
+	  "levelBtn22.png",
+	  "levelBtn23.png",
+	  "levelBtn24.png",
+	  "levelBtn25.png",
+	  "levelBtn26.png",
+	  "levelBtn27.png",
+	  "levelBtn28.png",
+	  "levelBtn29.png",
+	  "levelBtn30.png",
+	  "levelBtn31.png",
+	  "levelBtn32.png",
+	  "levelBtn33.png",
+	  "levelBtn34.png",
+	  "levelBtn35.png",
+	  "levelBtn36.png",
+	  "levelBtn37.png",
+	  "levelBtn38.png",
+	  "levelBtn39.png",
+	  "levelBtn40.png",
+	  "kuang.png",
+	  "fanhui.png",
+	  "zuo.png",
+	  "you.png",
+	  "1.png",
+	  "2.png"
+   ],
+   "layers": [
+   {
+         "name": "sky",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "image": 0,
+               "x": 16,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 48,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 80,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 112,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 144,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 176,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 208,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 240,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 272,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 304,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 336,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 368,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 400,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 432,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 464,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 496,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 528,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 560,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 592,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 624,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 656,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 688,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 720,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 752,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 784,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 816,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 848,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 880,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 912,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 944,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 976,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1008,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1040,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1072,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1104,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1136,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1168,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1200,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1232,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1264,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1296,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1328,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1360,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1392,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1424,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1456,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1488,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1520,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1552,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1584,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1616,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1648,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1680,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1712,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1744,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1776,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1808,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1840,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1872,
+               "y": 720
+            },
+            {
+               "image": 0,
+               "x": 1904,
+               "y": 720
+            }
+         ]
+      },
+      {
+         "name": "cloud",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "image": 1,
+               "x": 416,
+               "y": 148
+            },
+            {
+               "image": 2,
+               "x": 1504,
+               "y": 366
+            }
+         ]
+      },
+	  {
+         "name": "bg",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "image": 3,
+               "x": 129,
+               "y": 1012
+            },
+            {
+               "image": 3,
+               "x": 1728,
+               "y": 1012
+            }
+         ]
+      },
+	  {
+         "name": "kuang",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "image": 24,
+               "x": 970,
+               "y": 720
+            }
+         ]
+      },
+	  {
+         "name": "btnBack",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 25,
+               "x": 160,
+               "y": 300
+            }
+         ]
+      },
+	  {
+         "name": "btnPrev",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 26,
+               "x": 160,
+               "y": 720
+            }
+         ]
+      },
+	  {
+         "name": "btnNext",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 27,
+               "x": 1760,
+               "y": 720
+            }
+         ]
+      },
+	  {
+         "name": "page1",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "image": 28,
+               "x": 900,
+               "y": 1180
+            }
+         ]
+      },
+	  {
+         "name": "page2",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "image": 29,
+               "x": 1020,
+               "y": 1180
+            }
+         ]
+      },
+      {
+         "name": "level_20",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 4,
+               "x": 500,
+               "y": 420
+            }
+         ]
+      },
+      {
+         "name": "level_21",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 5,
+               "x": 730,
+               "y": 420
+            }
+         ]
+      },
+	  {
+         "name": "level_22",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 6,
+               "x": 960,
+               "y": 420
+            }
+         ]
+      },
+	  {
+         "name": "level_23",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 7,
+               "x": 1190,
+               "y": 420
+            }
+         ]
+      }
+	   {
+         "name": "level_24",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 8,
+               "x": 1420,
+               "y": 420
+            }
+         ]
+      },
+	         {
+         "name": "level_25",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 9,
+               "x": 500,
+               "y": 620
+            }
+         ]
+      },
+      {
+         "name": "level_26",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 10,
+               "x": 730,
+               "y": 620
+            }
+         ]
+      },
+	  {
+         "name": "level_27",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 11,
+               "x": 960,
+               "y": 620
+            }
+         ]
+      },
+	  {
+         "name": "level_28",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 12,
+               "x": 1190,
+               "y": 620
+            }
+         ]
+      }
+	   {
+         "name": "level_29",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 13,
+               "x": 1420,
+               "y": 620
+            }
+         ]
+      },
+	  {
+         "name": "level_30",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 14,
+               "x": 500,
+               "y": 820
+            }
+         ]
+      },
+	  {
+         "name": "level_31",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 15,
+               "x": 730,
+               "y": 820
+            }
+         ]
+      }
+	   {
+         "name": "level_32",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 16,
+               "x": 960,
+               "y": 820
+            }
+         ]
+      },
+	   {
+         "name": "level_33",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 17,
+               "x": 1190,
+               "y": 820
+            }
+         ]
+      },
+	   {
+         "name": "level_34",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 18,
+               "x": 1420,
+               "y": 820
+            }
+         ]
+      },
+	   {
+         "name": "level_35",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 19,
+               "x": 500,
+               "y": 1020
+            }
+         ]
+      },
+	  	        {
+         "name": "level_36",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 20,
+               "x": 730,
+               "y": 1020
+            }
+         ]
+      },
+      {
+         "name": "level_37",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 21,
+               "x": 960,
+               "y": 1020
+            }
+         ]
+      },
+	  {
+         "name": "level_38",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 22,
+               "x": 1190,
+               "y": 1020
+            }
+         ]
+      },
+	  {
+         "name": "level_39",
+         "visible": true,
+         "locked": true,
+         "objects": [
+            {
+               "touchable": true,
+               "image": 23,
+               "x": 1420,
+               "y": 1020
+            }
+         ]
+      }
+   ]
+}
